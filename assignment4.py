@@ -1,0 +1,9 @@
+p=35
+print(p,type(p),id(p))
+r=str(p)
+print(r,type(r),id(r))
+p="12345"
+print(int(p))
+print(ord('m'))
+x=5
+print(x,bin(x),oct(x),hex(x))
